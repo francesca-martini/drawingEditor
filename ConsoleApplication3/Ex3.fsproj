@@ -54,6 +54,8 @@
     <None Include="IUMShape.fsx" />
     <None Include="MovingShape.fsx" />
     <None Include="Controls.fsx" />
+    <None Include="README.md" />
+    <None Include="Screen.png" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
